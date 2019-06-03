@@ -1,0 +1,4 @@
+.wakatime-project
+**/
+!**/src/*.hs
+tags
